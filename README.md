@@ -26,3 +26,13 @@ O arquivo `gasolina.csv` contém dados fictícios representando os preços da ga
    ```bash
    git clone https://github.com/thepablosantos/EBAC-Course.git
 2. Execute o comando `python gasolina.py`
+
+3. Observe o gráfico gerado (`gasolina.png`) e analise os resultados.
+
+## Requisitos
+- Python 3
+- Bibliotecas: Pandas, Matplotlib
+
+## Licença
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
+
