@@ -12,7 +12,7 @@ Este repositório contém dados e scripts relacionados a um exercício envolvend
 
 ## Dados
 
-O arquivo `gasolina.csv` contém dados fictícios representando os preços da gasolina ao longo de 10 dias. Cada linha do arquivo contém informações sobre o dia e o preço da gasolina nesse dia.
+O arquivo `gasolina.csv` contém dados fictícios representando os preços da gasolina ao longo de 10 dias. Cada linha do arquivo contém informações sobre o dia e o preço da gasolina neste dia.
 
 ## Arquivos
 
