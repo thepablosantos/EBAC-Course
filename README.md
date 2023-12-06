@@ -22,7 +22,7 @@ O arquivo `gasolina.csv` contém dados fictícios representando os preços da ga
 
 ## Instruções
 
-1. Clone o repositório para o seu ambiente local.
+1. Clone o repositório para o seu ambiente local
    ```bash
    git clone https://github.com/thepablosantos/EBAC-Course.git
 2. Execute o comando `python gasolina.py`
